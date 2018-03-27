@@ -17,13 +17,3 @@ var newarray = [ ]
   return newarray
 }
 
-function iLoveTheBeatles(i) {
-  var newestarray=[]
-  do {
-  newestarray.push("I love the Beatles!")
-  i++
-  } while ( i < 15 )
-  
-   
-  return newestarray
-}
